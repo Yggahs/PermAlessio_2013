@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: 45a5b6fe2406d5f489e76e1327308ce0
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: porcoddio 1_GO/porcoddio 1_GO
+    100002: porcoddio 1_GO/porcoddio 1_GO/Forma 1
+    100004: porcoddio 1_GO/porcoddio 1_GO/head
+    100006: porcoddio 1_GO/porcoddio 1_GO/Jacket
+    100008: porcoddio 1_GO/porcoddio 1_GO/LArm
+    100010: porcoddio 1_GO/porcoddio 1_GO/LArm copia
+    100012: porcoddio 1_GO/porcoddio 1_GO/Livello 1
+    100014: porcoddio 1_GO/porcoddio 1_GO/Livello 2
+    100016: porcoddio 1_GO/porcoddio 1_GO/Livello 3
+    100018: porcoddio 1_GO/porcoddio 1_GO/Livello 4
+    100020: porcoddio 1_GO/porcoddio 1_GO/Livello 5
+    100022: porcoddio 1_GO/porcoddio 1_GO/Livello 6
+    100024: porcoddio 1_GO/porcoddio 1_GO/lleg
+    100026: porcoddio 1_GO/porcoddio 1_GO/rleg
+    400000: porcoddio 1_GO/porcoddio 1_GO/Transform
+    400002: porcoddio 1_GO/porcoddio 1_GO/Forma 1/Transform
+    400004: porcoddio 1_GO/porcoddio 1_GO/head/Transform
+    400006: porcoddio 1_GO/porcoddio 1_GO/Jacket/Transform
+    400008: porcoddio 1_GO/porcoddio 1_GO/LArm/Transform
+    400010: porcoddio 1_GO/porcoddio 1_GO/LArm copia/Transform
+    400012: porcoddio 1_GO/porcoddio 1_GO/Livello 1/Transform
+    400014: porcoddio 1_GO/porcoddio 1_GO/Livello 2/Transform
+    400016: porcoddio 1_GO/porcoddio 1_GO/Livello 3/Transform
+    400018: porcoddio 1_GO/porcoddio 1_GO/Livello 4/Transform
+    400020: porcoddio 1_GO/porcoddio 1_GO/Livello 5/Transform
+    400022: porcoddio 1_GO/porcoddio 1_GO/Livello 6/Transform
+    400024: porcoddio 1_GO/porcoddio 1_GO/lleg/Transform
+    400026: porcoddio 1_GO/porcoddio 1_GO/rleg/Transform
+    2800000: porcoddio 1
+    21200000: porcoddio 1_GO/porcoddio 1_GO/Forma 1/SpriteRenderer
+    21200002: porcoddio 1_GO/porcoddio 1_GO/head/SpriteRenderer
+    21200004: porcoddio 1_GO/porcoddio 1_GO/Jacket/SpriteRenderer
+    21200006: porcoddio 1_GO/porcoddio 1_GO/LArm/SpriteRenderer
+    21200008: porcoddio 1_GO/porcoddio 1_GO/LArm copia/SpriteRenderer
+    21200010: porcoddio 1_GO/porcoddio 1_GO/Livello 1/SpriteRenderer
+    21200012: porcoddio 1_GO/porcoddio 1_GO/Livello 2/SpriteRenderer
+    21200014: porcoddio 1_GO/porcoddio 1_GO/Livello 3/SpriteRenderer
+    21200016: porcoddio 1_GO/porcoddio 1_GO/Livello 4/SpriteRenderer
+    21200018: porcoddio 1_GO/porcoddio 1_GO/Livello 5/SpriteRenderer
+    21200020: porcoddio 1_GO/porcoddio 1_GO/Livello 6/SpriteRenderer
+    21200022: porcoddio 1_GO/porcoddio 1_GO/lleg/SpriteRenderer
+    21200024: porcoddio 1_GO/porcoddio 1_GO/rleg/SpriteRenderer
+    21300000: a61d69f3c3743b44a9d79aaa1b629b20
+    21300002: 78aedc9fd09e7de46af93f43b1863a19
+    21300004: 714ec67d720fe594f97283526db302db
+    21300006: b3ef24b4a70950945a801802cd52eeeb
+    21300008: 273ac1c6e245e16429a3ba217745fccc
+    21300010: 7142da286a0cebf41b0e147b82099f5b
+    21300012: 0a065a053acf44948b91f5a172fa5307
+    21300014: 2b676beecb1aed1469975f28f093b6b8
+    21300016: f7de33040f8d3184fae82a9aa745da35
+    21300018: b22d2e67a9e203c44a301151edb3a817
+    21300020: 273b22a0fd3b7e841852bbb86d823e0b
+    21300022: adc9fdfb108b2894d9b9a0d52d5f6255
+    21300024: d86dc9005931df941b8117c4b9e7f870
+    100100000: porcoddio 1_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: LArm
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3018
+      y: 1015
+      width: 308
+      height: 1034
+    spriteID: a61d69f3c3743b44a9d79aaa1b629b20
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2217, y: -6}
+  - name: Livello 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2549
+      y: 4
+      width: 461
+      height: 1604
+    spriteID: 78aedc9fd09e7de46af93f43b1863a19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2216, y: -1774}
+  - name: Livello 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2549
+      y: 1616
+      width: 355
+      height: 1242
+    spriteID: 714ec67d720fe594f97283526db302db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1936, y: -578}
+  - name: Livello 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3018
+      y: 4
+      width: 339
+      height: 1003
+    spriteID: b3ef24b4a70950945a801802cd52eeeb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2258, y: -2294}
+  - name: Livello 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3018
+      y: 2057
+      width: 311
+      height: 851
+    spriteID: 273ac1c6e245e16429a3ba217745fccc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2073, y: -394}
+  - name: Livello 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3018
+      y: 2916
+      width: 261
+      height: 813
+    spriteID: 7142da286a0cebf41b0e147b82099f5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1931, y: 348}
+  - name: Forma 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1508
+      y: 4
+      width: 1033
+      height: 1801
+    spriteID: 0a065a053acf44948b91f5a172fa5307
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1199, y: -1763}
+  - name: Livello 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2549
+      y: 3902
+      width: 0
+      height: 0
+    spriteID: 2b676beecb1aed1469975f28f093b6b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 894, y: 269}
+  - name: head
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1508
+      y: 1813
+      width: 822
+      height: 950
+    spriteID: f7de33040f8d3184fae82a9aa745da35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1194, y: -458}
+  - name: Jacket
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1496
+      height: 3561
+    spriteID: b22d2e67a9e203c44a301151edb3a817
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -155, y: 4}
+  - name: lleg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1508
+      y: 2771
+      width: 505
+      height: 1248
+    spriteID: 273b22a0fd3b7e841852bbb86d823e0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 933, y: 2684}
+  - name: rleg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2021
+      y: 2771
+      width: 504
+      height: 1231
+    spriteID: adc9fdfb108b2894d9b9a0d52d5f6255
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1619, y: 2683}
+  - name: LArm copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2549
+      y: 2866
+      width: 374
+      height: 1028
+    spriteID: d86dc9005931df941b8117c4b9e7f870
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2122, y: 1794}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 1655, y: 3633}
+  textureActualWidth: 4096
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: COLORI
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 36
+    mosaicPosition: {x: 0, y: 0}
+  - name: LArm
+    spriteName: LArm
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a61d69f3c3743b44a9d79aaa1b629b20
+    layerID: 35
+    mosaicPosition: {x: 3018, y: 1015}
+  - name: HairGroup
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 
+    layerID: 43
+    mosaicPosition: {x: 0, y: 0}
+  - name: Livello 1
+    spriteName: Livello 1
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 78aedc9fd09e7de46af93f43b1863a19
+    layerID: 45
+    mosaicPosition: {x: 2549, y: 4}
+  - name: Livello 2
+    spriteName: Livello 2
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 714ec67d720fe594f97283526db302db
+    layerID: 46
+    mosaicPosition: {x: 2549, y: 1616}
+  - name: Livello 3
+    spriteName: Livello 3
+    isGroup: 0
+    parentIndex: 2
+    spriteID: b3ef24b4a70950945a801802cd52eeeb
+    layerID: 47
+    mosaicPosition: {x: 3018, y: 4}
+  - name: Livello 4
+    spriteName: Livello 4
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 273ac1c6e245e16429a3ba217745fccc
+    layerID: 48
+    mosaicPosition: {x: 3018, y: 2057}
+  - name: Livello 5
+    spriteName: Livello 5
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 7142da286a0cebf41b0e147b82099f5b
+    layerID: 49
+    mosaicPosition: {x: 3018, y: 2916}
+  - name: Forma 1
+    spriteName: Forma 1
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 0a065a053acf44948b91f5a172fa5307
+    layerID: 40
+    mosaicPosition: {x: 1508, y: 4}
+  - name: Livello 6
+    spriteName: Livello 6
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2b676beecb1aed1469975f28f093b6b8
+    layerID: 50
+    mosaicPosition: {x: 2549, y: 3902}
+  - name: head
+    spriteName: head
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f7de33040f8d3184fae82a9aa745da35
+    layerID: 33
+    mosaicPosition: {x: 1508, y: 1813}
+  - name: Jacket
+    spriteName: Jacket
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b22d2e67a9e203c44a301151edb3a817
+    layerID: 32
+    mosaicPosition: {x: 4, y: 4}
+  - name: lleg
+    spriteName: lleg
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 273b22a0fd3b7e841852bbb86d823e0b
+    layerID: 31
+    mosaicPosition: {x: 1508, y: 2771}
+  - name: rleg
+    spriteName: rleg
+    isGroup: 0
+    parentIndex: 0
+    spriteID: adc9fdfb108b2894d9b9a0d52d5f6255
+    layerID: 30
+    mosaicPosition: {x: 2021, y: 2771}
+  - name: LArm copia
+    spriteName: LArm copia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d86dc9005931df941b8117c4b9e7f870
+    layerID: 29
+    mosaicPosition: {x: 2549, y: 2866}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: porcoddio 1
+  prefabAssetName: porcoddio 1_GO
